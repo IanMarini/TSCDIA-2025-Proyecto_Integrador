@@ -1,1 +1,3 @@
-# TSCDIA-2025-Proyecto_Integrador
+### Materia: Proyecto_Integrador
+
+Alumno: Marini, Ian Denis.
