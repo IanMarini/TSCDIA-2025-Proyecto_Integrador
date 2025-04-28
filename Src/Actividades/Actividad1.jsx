@@ -4,7 +4,7 @@ function Actividad1() {
   
     return (
       <div>
-        <h2>Hola, me llamo {nombre} y tengo {edad} años.</h2>
+        <h2>Hola, mi nombre es {nombre} y tengo {edad} años.</h2>
       </div>
     );
   }
