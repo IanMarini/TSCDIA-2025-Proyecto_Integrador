@@ -15,7 +15,7 @@ Este proyecto es una aplicación web que simula un catálogo de productos dinám
 🧮 JavaScript (ES6) – Lógica de renderizado, estado y efectos.
 
 ### 🖼️ Captura de pantalla
-![image](https://github.com/user-attachments/assets/fa4b7aa8-a872-4893-91f8-0d55c25e32c8)
+![image](https://github.com/user-attachments/assets/638445f6-9555-4e31-94fd-5e958385a1a5)
 
 
 ### 📦 Funcionalidades principales
@@ -27,6 +27,7 @@ Este proyecto es una aplicación web que simula un catálogo de productos dinám
 ✅ Estilos modernos y adaptativos con Tailwind CSS
 
 ### 📊 Estadísticas implementadas
+
 🏷️ Producto más caro
 
 🧾 Producto más barato
@@ -36,6 +37,10 @@ Este proyecto es una aplicación web que simula un catálogo de productos dinám
 💰 Precio total de los productos filtrados
 
 📉 Promedio de descuento (discountPercentage)
+
+- Productos con precio > $300
+- Total de productos filtrados
+- Descuento más alto registrado
 
 ### 🧩 Componentes personalizados
 Componente	Función
